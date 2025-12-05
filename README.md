@@ -17,10 +17,12 @@ Perfeito para treinar lógica de programação e manipulação de listas e dicio
 1. Instale o **Python 3**.  
 2. Baixe os arquivos do repositório.  
 3. No terminal, rode:
+python main.py
 
  ---
 
 ## 📁 Estrutura do projeto
+main.py        # Arquivo principal com o menu e funções README.md      # Documentação do projeto
 ---
 
 ## 🎯 Objetivo do projeto
@@ -34,6 +36,7 @@ O projeto foi criado para praticar:
 ---
 
 ## 🧠 Exemplo de uso
+1 - Adicionar tarefa 2 - Listar tarefas 3 - Remover tarefa 4 - Sair
 ---
 
 ## 📜 Licença
