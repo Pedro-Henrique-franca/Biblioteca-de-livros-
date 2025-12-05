@@ -2,7 +2,6 @@
 
 Um sistema básico em Python para registrar livros, listar todos os livros cadastrados e buscar por título.  
 Perfeito para treinar lógica de programação e manipulação de listas e dicionários.
-
 ---
 
 ## 📌 Funcionalidades
@@ -10,7 +9,6 @@ Perfeito para treinar lógica de programação e manipulação de listas e dicio
 - Listar catálogo completo
 - Buscar livro pelo título
 - Sistema simples, focado em aprendizado
-
 ---
 
 ## ▶️ Como executar
@@ -18,7 +16,6 @@ Perfeito para treinar lógica de programação e manipulação de listas e dicio
 2. Baixe os arquivos do repositório.  
 3. No terminal, rode:
 python main.py
-
  ---
 
 ## 📁 Estrutura do projeto
@@ -32,7 +29,6 @@ O projeto foi criado para praticar:
 - Manipulação de listas
 - Uso de dicionários em Python
 - Criação de menus interativos
-
 ---
 
 ## 🧠 Exemplo de uso
